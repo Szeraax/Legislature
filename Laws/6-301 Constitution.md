@@ -94,7 +94,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1. The Councils have the power to propose amendments to this constitution. The amendment must be ratified through a two thirds majority in both Councils to be added to this constitution.
 
 ## Signatures
-![signatures](/References/6-301-1.png)
+![signatures](../References/6-301-1.png)
 
 Ghostise, Grandmaster of the April Knights and Commander of the  Knights of the Church.
 
@@ -109,3 +109,6 @@ Legendosh, First Builder and Commander of the Knights of Nevermore
 /u/Gryph667, First Steward, Commander of the Redguard, 5th Grandmaster of the Knights of the Button
 
 /u/FanboyGamer64, Head Scribe of The Order of the Scarlet Feather
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/6-301%20Constitution.md)

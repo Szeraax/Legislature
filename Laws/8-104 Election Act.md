@@ -86,3 +86,6 @@ The expansion of people who could run for the position of Grandmaster was necess
 
 ### Section I
 1. This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/8-104%20Election%20Act.md)

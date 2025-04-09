@@ -74,3 +74,6 @@ The Archmage is also obliged to keep the members of the Upper Council appraised 
 
 ### Section I
 This act shall take effect as soon as voted and approved by both Councils, and confirmed by the Grandmaster.
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/7-101%20Mutare%20Magia%20Act.md)

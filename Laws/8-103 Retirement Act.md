@@ -33,3 +33,6 @@ Corporals do not receive any additional rights or responsibilities in promotion 
 
 ### Section I
 This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/8-103%20Retirement%20Act.md)
